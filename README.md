@@ -17,7 +17,7 @@ Passionate about using data to solve problems, uncover insights, and support str
 
 ## 💼 Open to Opportunities
 
-Actively seeking to participate in **outsourcing or freelance projects**, especially in data analytics, predictive modeling, or dashboard building. Open to **relocation** or **remote opportunities** worldwide.
+Actively seeking to participate in **outsourcing projects**, especially in data analytics, predictive modeling, or dashboard building. Open to **relocation** or **remote opportunities** worldwide.
 
 ## 🛠️ Tech Stack
 
